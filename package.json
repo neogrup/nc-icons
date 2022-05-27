@@ -7,7 +7,7 @@
   ],
   "name": "@neogrup/nc-icons",
   "main": "nc-icons.js",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "dependencies": {
     "@polymer/iron-icon": "^3.0.1",
     "@polymer/iron-icons": "^3.0.1",
